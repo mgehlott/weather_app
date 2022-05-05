@@ -1,0 +1,44 @@
+.comment-container{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 59%;
+    margin: 0 auto;
+    padding: 1px 9px;
+    margin-top: 10px;
+    color:#5b5d5e;
+    padding: 20px;
+    margin-bottom: 2rem;
+   
+}
+
+.input-control{
+    width: 100%;
+    
+}
+
+.cinput{
+    width: 100%;
+    border: none;
+    font-size: 1.4rem;
+    padding: 5px 8px;
+    background-color: rgb(248, 238, 240);
+    color: #5b5d5e;
+}
+
+.cinput:focus{
+    outline: none;
+}
+
+.commentBtn{
+    background-color:  rgb(104, 68, 233);
+    color: white;
+    font-size: 1.2rem;
+    border:1px solid gainsboro;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.comments{
+    background-color: rgb(248, 238, 240);
+    padding: 3px 20px;
+    margin-top: 2rem;
+}
